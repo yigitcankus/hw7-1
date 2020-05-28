@@ -1,0 +1,19 @@
+Asagidaki örneklerin siniflandirma problemi mi yoksa regresyon problemi mi oldugunu belirleyiniz:
+
+1-Evin büyüklügü veri alindiginda, evin fiyatini tahmin etmek
+2-Eve bakmaya gelenlerin kiyafetlerinden, kimin evi satin alma ihtimalinin yüksek veya düsük oldugu sonucuna varmak
+3-Lokasyon ve tarih gibi parametreleri kullanarak, yagmur yagma ihtimalini hesaplamak
+4-Egitim, tecrübe gibi parametreleri kullanarak, kisinin maasini tahmin etmek
+5-Bir insanin yasinin tahmin edilmesi
+6-Bir insanin gelirinin tahmin edilmesi
+7-Herhangi bir hisse senedinin fiyatinin yönünün tahmin edilmesi
+
+CEVAP:
+
+1-regresyon
+2-siniflandirma
+3-regresyon
+4-regresyon
+5-regresyon
+6-regresyon
+7-siniflandirma
